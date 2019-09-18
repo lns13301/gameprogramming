@@ -24,3 +24,9 @@
         - CSS 템플릿 사이트
     - [ ] http://bmac.kr/index.asp
         - 부산 오프라인 강좌 사이트
+        
+## 0918
+- html에 js를 연동시키는 연습함
+- js에 이용되는 기본적인 기능을 사용해봄
+- [ ] https://www.adobe.com/devnet/archive/pixelbender.html
+    - 애니메이션 관련 사이트
